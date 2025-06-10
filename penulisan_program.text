@@ -1,0 +1,16 @@
+snake_case => nama table, nama kolom, nama variable
+kebab-case => class css
+camelCase => variable object
+PascalCase => Nama Class
+
+singular => tunggal
+plural => jamak
+
+Nama Class => Singular => User
+Nama Tabel => Plural => users
+Nama Kolom => Singular => nama
+
+Nama Variable ?
+
+$users = User::get();
+$user = User::find(1);

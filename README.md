@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏻‍🎓 I'm Student In SMKN 2 Buduran<br>🧑🏻‍💻 I'm Full Stack Web Developer <br><br>============= Tools =============<br>- Vscode<br>- Herd Laravel<br>- Navicat 16 Premium
+👨🏻‍🎓 I'm Student In SMKN 2 Buduran<br>🧑🏻‍💻 I'm Full Stack Web Developer <br><br>============= Tools =============<br>- Vscode<br>- Herd Laravel<br>- Navicat 17 Premium
 
 
 ## 🌐 Socials:

@@ -2,7 +2,7 @@
 👨🏻‍🎓 I'm Student In SMKN 2 Buduran  
 🧑🏻‍💻 I'm Full Stack Web Developer  
 
-<a href="https://andreasathallah.vercel.app" target="_blank">
+<a href="https://andreas-athallah.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/LIVE_PORTFOLIO-andreasathallah.vercel.app-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
 </a>
 

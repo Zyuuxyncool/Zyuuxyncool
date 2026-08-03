@@ -1,4 +1,9 @@
-<h1 align="center">Hi there, I'm Andreas Athallah! 👋</h1>
+<h1 align="center">Hi there! 👋 I'm</h1>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&height=60&lines=Andreas+Athallah;Full+Stack+Developer" alt="Typing Animation" />
+</div>
+
 <h3 align="center">Full Stack Web Developer at PT. Gema Solusindo Utama</h3>
 
 <div align="center">
@@ -23,21 +28,21 @@
 ### Backend & Programming
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 
-### Database, Cloud & Tools
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+### Database & Tools
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zyuuxyncool&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zyuuxyncool&theme=tokyonight&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zyuuxyncool&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Zyuuxyncool&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyuuxyncool&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="48%" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=Zyuuxyncool&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyuuxyncool&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Zyuuxyncool&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Contributor Stats" />
 </div>
 
 ## 🐍 Contribution Graph

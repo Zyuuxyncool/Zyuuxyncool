@@ -35,17 +35,7 @@
 
 ---
 
-## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zyuuxyncool&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Zyuuxyncool&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyuuxyncool&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=Zyuuxyncool&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Contributor Stats" />
-</p>
 
 ## 🐍 Contribution Graph
 
@@ -70,6 +60,4 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Zyuuxyncool&icon=0&color=0" alt="Visit Count" />
-</p>
+

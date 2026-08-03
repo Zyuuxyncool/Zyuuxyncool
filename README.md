@@ -1,9 +1,9 @@
 <h1 align="center">Hi there! 👋 I'm</h1>
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&height=60&lines=Andreas+Athallah;Full+Stack+Developer)](https://git.io/typing-svg)
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&height=60&lines=Andreas+Athallah;Full+Stack+Developer" alt="Typing SVG" />
+  </a>
 </div>
 
 <h3 align="center">Full Stack Web Developer at PT. Gema Solusindo Utama</h3>
@@ -37,15 +37,15 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zyuuxyncool&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Zyuuxyncool&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api?username=Zyuuxyncool&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Zyuuxyncool&theme=tokyonight&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zyuuxyncool&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-contributor-stats.vercel.app/api?username=Zyuuxyncool&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyuuxyncool&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Zyuuxyncool&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Contributor Stats" />
+</p>
 
 ## 🐍 Contribution Graph
 
@@ -61,19 +61,15 @@
 
 ## 💬 Let's Connect!
 
-<div align="center">
+<p align="center">
   <a href="https://www.facebook.com/profile.php?id=61557310556228" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
   </a>
   <a href="https://www.instagram.com/zyuuxyncool/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
   </a>
-</div>
+</p>
 
-<br/>
-
-<div align="center">
-
-![](https://visitcount.itsvg.in/api?id=Zyuuxyncool&icon=0&color=0)
-
-</div>
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Zyuuxyncool&icon=0&color=0" alt="Visit Count" />
+</p>

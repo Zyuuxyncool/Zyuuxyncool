@@ -35,15 +35,15 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zyuuxyncool&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Zyuuxyncool&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyuuxyncool&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=Zyuuxyncool&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Contributor Stats" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zyuuxyncool&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" height="195" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Zyuuxyncool&theme=tokyonight&hide_border=false" height="195" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyuuxyncool&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="195" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Zyuuxyncool&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" height="195" />
+</p>
 
 ## 🐍 Contribution Graph
 <div align="center">
@@ -57,16 +57,15 @@
 ---
 
 ## 💬 Let's Connect!
-<div align="center">
+<p align="center">
   <a href="https://www.facebook.com/profile.php?id=61557310556228" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
   </a>
   <a href="https://www.instagram.com/zyuuxyncool/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
   </a>
-</div>
+</p>
 
-<br/>
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Zyuuxyncool&icon=0&color=0" alt="Visit Count" />
-</div>
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Zyuuxyncool&icon=0&color=0" />
+</p>
